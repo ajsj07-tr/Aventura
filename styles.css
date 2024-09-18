@@ -1,0 +1,16 @@
+body{
+    background-color: darkred;
+    color: black;
+    font-family: "New Amsterdam", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: darkblue;
+    color: white;
+    font-family: "New Amsterdam", sans-serif;
+}
